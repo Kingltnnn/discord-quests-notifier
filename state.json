@@ -2307,136 +2307,6 @@
       "sent_at": "2026-09-15T20:56:52.382Z",
       "type": "new"
     },
-    "1547757450760036362": {
-      "id": "1547757450760036362",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-09-15T17:00:00+00:00",
-        "expires_at": "2026-09-23T13:59:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "http://othermommymovie.com.au/",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1547757450760036362/1549458920492236890.jpg",
-          "hero_video": "quests/1547757450760036362/1549517566358069298.mp4",
-          "quest_bar_hero_blurhash": "TBgKDIJzWXeJeIaQeIYQiDJwSA==",
-          "quest_bar_hero": "quests/1547757450760036362/1549517550981873726.jpg",
-          "quest_bar_hero_video": "quests/1547757450760036362/1549517566358069298.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1547757450760036362/1549458860572680202.png",
-          "game_tile_dark": "quests/1547757450760036362/1549458859989405796.png",
-          "logotype_light": "quests/1547757450760036362/1549458971058896896.png",
-          "logotype_dark": "quests/1547757450760036362/1549458971075678360.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "OTHER MOMMY",
-          "game_title": "In Cinemas October 8",
-          "game_publisher": "Universal Pictures"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 105,
-              "assets": {
-                "video": {
-                  "url": "quests/1547757450760036362/1549517567029411930_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1547757450760036362/1549458910006485066.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1547757450760036362/1549517567029411930_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1547757450760036362/1549458910006485066.png"
-                },
-                "video_hls": {
-                  "url": "quests/1547757450760036362/1549517567029411930.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1547757450760036362/1549458910006485066.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 105,
-              "assets": {
-                "video": {
-                  "url": "quests/1547757450760036362/1549517566999793684_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1547757450760036362/1549458910006485066.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1547757450760036362/1549517566999793684_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1547757450760036362/1549458910006485066.png"
-                },
-                "video_hls": {
-                  "url": "quests/1547757450760036362/1549517566999793684.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1547757450760036362/1549458910006485066.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": null
-            }
-          ],
-          "rewards_expire_at": "2026-10-23T13:59:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "http://othermommymovie.com.au/",
-          "button_label": "Watch More",
-          "subtitle": "In Cinemas October 8"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiT1RIRVIgTU9NTVkiLCJnYW1lX3RpdGxlIjoiSW4gQ2luZW1hcyBPY3RvYmVyIDgiLCJnYW1lX3B1Ymxpc2hlciI6IlVuaXZlcnNhbCBQaWN0dXJlcyIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTE1VDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMjNUMTM6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMjNUMTM6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6MTA1fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjEwNX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDc3NTc0NTA3NjAwMzYzNjIvMTU0OTQ1ODkyMDQ5MjIzNjg5MC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NDc3NTc0NTA3NjAwMzYzNjIvMTU0OTUxNzU2NjM1ODA2OTI5OC5tcDQifQ==",
-      "starts_at": "2026-09-15T17:00:00+00:00",
-      "expires_at": "2026-10-23T13:59:00+00:00",
-      "sent_at": "2026-09-16T10:58:34.051Z",
-      "type": "new"
-    },
     "1547745463153721354": {
       "id": "1547745463153721354",
       "config": {
@@ -13110,7 +12980,269 @@
       "expires_at": "2026-11-23T09:59:59+00:00",
       "sent_at": "2026-10-23T08:07:56.857Z",
       "type": "new"
+    },
+    "1552895954753945620": {
+      "id": "1552895954753945620",
+      "config": {
+        "id": "1552895954753945620",
+        "config_version": 2,
+        "starts_at": "2026-10-23T16:15:00+00:00",
+        "expires_at": "2026-11-07T01:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.callofduty.com/playnow/modernwarfare4",
+          "id": "1511443377927880775",
+          "name": "Call of Duty: Modern Warfare 4"
+        },
+        "assets": {
+          "hero": "quests/1552895954753945620/1562258909522300978.jpg",
+          "hero_video": "quests/1552895954753945620/1562259114036305920_720.mp4",
+          "quest_bar_hero_blurhash": "k+cFCoLQdciHhbeGZ3lwhQg=",
+          "quest_bar_hero": "quests/1552895954753945620/1562258909522300978.jpg",
+          "quest_bar_hero_video": "quests/1552895954753945620/1562258933308063885_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1552895954753945620/1562258716068417567.png",
+          "game_tile_dark": "quests/1552895954753945620/1562258715908771930.png",
+          "logotype_light": "quests/1552895954753945620/1562258132917297152.png",
+          "logotype_dark": "quests/1552895954753945620/1562258132225228810.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Call of Duty: Modern Warfare 4",
+          "game_title": "Call of Duty: Modern Warfare 4",
+          "game_publisher": "Activision"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1511443377927880775"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1511443377927880775"
+                }
+              ],
+              "external_ids": [
+                "1680003655",
+                "2001700854"
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1511443377927880775"
+                }
+              ],
+              "external_ids": [
+                "PPSA07950_00",
+                "PPSA28781_00",
+                "PPSA07951_00",
+                "CUSA34029_00",
+                "CUSA23827_00",
+                "PPSA24265_00",
+                "PPSA24266_00",
+                "PPSA01649_00",
+                "PPSA07953_00",
+                "PPSA24263_00",
+                "CUSA53714_00",
+                "CUSA53712_00",
+                "CUSA34032_00",
+                "CUSA34030_00",
+                "CUSA53710_00",
+                "CUSA53713_00",
+                "CUSA53711_00",
+                "CUSA34031_00",
+                "PPSA07952_00",
+                "PPSA24264_00"
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-12-07T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.callofduty.com/playnow/modernwarfare4",
+          "button_label": "Phát Ngay",
+          "subtitle": "Cross the line"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiQ2FsbCBvZiBEdXR5OiBNb2Rlcm4gV2FyZmFyZSA0IiwiZ2FtZV90aXRsZSI6IkNhbGwgb2YgRHV0eTogTW9kZXJuIFdhcmZhcmUgNCIsImdhbWVfcHVibGlzaGVyIjoiQWN0aXZpc2lvbiIsImFwcGxpY2F0aW9uX2lkIjoiMTUxMTQ0MzM3NzkyNzg4MDc3NSIsImFwcGxpY2F0aW9uX25hbWUiOiJDYWxsIG9mIER1dHk6IE1vZGVybiBXYXJmYXJlIDQiLCJzdGFydHNfYXQiOiIyMDI2LTEwLTIzVDE2OjE1OjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTEtMDdUMDE6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTItMDdUMDE6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6ODQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iLCJYYm94Il0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInR5cGUiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9YQk9YIiwidHlwZSI6IlBMQVlfT05fWEJPWCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU1Mjg5NTk1NDc1Mzk0NTYyMC8xNTYyMjU4OTA5NTIyMzAwOTc4LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU1Mjg5NTk1NDc1Mzk0NTYyMC8xNTYyMjU5MTE0MDM2MzA1OTIwXzcyMC5tcDQifQ==",
+      "starts_at": "2026-10-23T16:15:00+00:00",
+      "expires_at": "2026-12-07T01:00:00+00:00",
+      "sent_at": "2026-10-23T18:48:46.538Z",
+      "type": "new"
+    },
+    "1552895020724527125": {
+      "id": "1552895020724527125",
+      "config": {
+        "id": "1552895020724527125",
+        "config_version": 2,
+        "starts_at": "2026-10-23T16:15:00+00:00",
+        "expires_at": "2026-11-07T01:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.callofduty.com/playnow/modernwarfare4",
+          "id": "1511443377927880775",
+          "name": "Call of Duty: Modern Warfare 4"
+        },
+        "assets": {
+          "hero": "quests/1552895020724527125/1562256208717414440.jpg",
+          "hero_video": "quests/1552895020724527125/1562256423583350824_720.mp4",
+          "quest_bar_hero_blurhash": "ihgGCoArAnGLdKupH34J2ak=",
+          "quest_bar_hero": "quests/1552895020724527125/1562256208717414440.jpg",
+          "quest_bar_hero_video": "quests/1552895020724527125/1562256251629346846_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1552895020724527125/1559719512566276217.png",
+          "game_tile_dark": "quests/1552895020724527125/1559719512180391966.png",
+          "logotype_light": "quests/1552895020724527125/1559719512167682098.png",
+          "logotype_dark": "quests/1552895020724527125/1559719512167682128.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Call of Duty: Modern Warfare 4",
+          "game_title": "Call of Duty: Modern Warfare 4",
+          "game_publisher": "Activision"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1511443377927880775"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1511443377927880775"
+                }
+              ],
+              "external_ids": [
+                "1680003655",
+                "2001700854"
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1511443377927880775"
+                }
+              ],
+              "external_ids": [
+                "PPSA07950_00",
+                "PPSA28781_00",
+                "PPSA07951_00",
+                "CUSA34029_00",
+                "CUSA23827_00",
+                "PPSA24265_00",
+                "PPSA24266_00",
+                "PPSA01649_00",
+                "PPSA07953_00",
+                "PPSA24263_00",
+                "CUSA53714_00",
+                "CUSA34032_00",
+                "CUSA53712_00",
+                "CUSA34030_00",
+                "CUSA53710_00",
+                "CUSA53713_00",
+                "CUSA53711_00",
+                "CUSA34031_00",
+                "PPSA07952_00",
+                "PPSA24264_00"
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 1,
+              "sku_id": "1552893313500184618",
+              "asset": "quests/1552895020724527125/1559719416478957589.jpg",
+              "asset_video": null,
+              "messages": {
+                "name": "15m 2XP Token",
+                "name_with_article": "A 15m 2XP Token",
+                "redemption_instructions_by_platform": {
+                  "0": "Redeem your code for your 2XP Token at callofduty.com/redeem."
+                }
+              },
+              "approximate_count": null,
+              "redemption_link": "http://callofduty.com/promotions/redeemcode"
+            }
+          ],
+          "rewards_expire_at": "2026-12-07T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.callofduty.com/playnow/modernwarfare4",
+          "button_label": "Phát Ngay",
+          "subtitle": "Hold the line"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiQ2FsbCBvZiBEdXR5OiBNb2Rlcm4gV2FyZmFyZSA0IiwiZ2FtZV90aXRsZSI6IkNhbGwgb2YgRHV0eTogTW9kZXJuIFdhcmZhcmUgNCIsImdhbWVfcHVibGlzaGVyIjoiQWN0aXZpc2lvbiIsImFwcGxpY2F0aW9uX2lkIjoiMTUxMTQ0MzM3NzkyNzg4MDc3NSIsImFwcGxpY2F0aW9uX25hbWUiOiJDYWxsIG9mIER1dHk6IE1vZGVybiBXYXJmYXJlIDQiLCJzdGFydHNfYXQiOiIyMDI2LTEwLTIzVDE2OjE1OjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTEtMDdUMDE6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTItMDdUMDE6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjpudWxsLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiLCJQbGF5U3RhdGlvbiIsIlhib3giXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidHlwZSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1hCT1giLCJ0eXBlIjoiUExBWV9PTl9YQk9YIiwidGFyZ2V0Ijo5MDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTUyODk1MDIwNzI0NTI3MTI1LzE1NjIyNTYyMDg3MTc0MTQ0NDAuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTUyODk1MDIwNzI0NTI3MTI1LzE1NjIyNTY0MjM1ODMzNTA4MjRfNzIwLm1wNCJ9",
+      "starts_at": "2026-10-23T16:15:00+00:00",
+      "expires_at": "2026-12-07T01:00:00+00:00",
+      "sent_at": "2026-10-23T18:48:48.123Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-10-23T13:58:42.689Z"
+  "last_check": "2026-10-23T18:48:49.236Z"
 }

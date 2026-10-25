@@ -11470,7 +11470,92 @@
       "expires_at": "2026-12-03T01:00:00+00:00",
       "sent_at": "2026-10-25T07:57:42.473Z",
       "type": "new"
+    },
+    "1562915304299044884": {
+      "id": "1562915304299044884",
+      "config": {
+        "id": "1562915304299044884",
+        "config_version": 2,
+        "starts_at": "2026-10-25T16:00:00+00:00",
+        "expires_at": "2026-11-04T01:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.roblox.com/games/137826330724902/Scary-Shawarma-Kiosk-the-ANOMALY?gsrbx=1&ad_name=RCFRA0CS",
+          "id": "363445589247131668",
+          "name": "Roblox"
+        },
+        "assets": {
+          "hero": "quests/1562915304299044884/1562916626670817380.jpg",
+          "hero_video": "quests/1562915304299044884/1562916714637820107_720.mp4",
+          "quest_bar_hero_blurhash": "kgcKEoIIRXuUSHiIUIgIY3k=",
+          "quest_bar_hero": "quests/1562915304299044884/1562916626670817380.jpg",
+          "quest_bar_hero_video": "quests/1562915304299044884/1562916714637820107_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1562915304299044884/1562916601886670980.png",
+          "game_tile_dark": "quests/1562915304299044884/1562916601861243000.png",
+          "logotype_light": "quests/1562915304299044884/1563200099004194867.png",
+          "logotype_dark": "quests/1562915304299044884/1563200099004194867.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Scary Shawarma Kiosk: the ANOMALY",
+          "game_title": "Scary Shawarma Kiosk: the ANOMALY by Roblox",
+          "game_publisher": "ROBLOX"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "363445589247131668"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-12-04T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.roblox.com/games/137826330724902/Scary-Shawarma-Kiosk-the-ANOMALY?gsrbx=1&ad_name=RCFRA0CS",
+          "button_label": "Phát Ngay"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiU2NhcnkgU2hhd2FybWEgS2lvc2s6IHRoZSBBTk9NQUxZIiwiZ2FtZV90aXRsZSI6IlNjYXJ5IFNoYXdhcm1hIEtpb3NrOiB0aGUgQU5PTUFMWSBieSBSb2Jsb3giLCJnYW1lX3B1Ymxpc2hlciI6IlJPQkxPWCIsImFwcGxpY2F0aW9uX2lkIjoiMzYzNDQ1NTg5MjQ3MTMxNjY4IiwiYXBwbGljYXRpb25fbmFtZSI6IlJvYmxveCIsInN0YXJ0c19hdCI6IjIwMjYtMTAtMjVUMTY6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMS0wNFQwMTowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMi0wNFQwMTowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5Ijo4NDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NjI5MTUzMDQyOTkwNDQ4ODQvMTU2MjkxNjYyNjY3MDgxNzM4MC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NjI5MTUzMDQyOTkwNDQ4ODQvMTU2MjkxNjcxNDYzNzgyMDEwN183MjAubXA0In0=",
+      "starts_at": "2026-10-25T16:00:00+00:00",
+      "expires_at": "2026-12-04T01:00:00+00:00",
+      "sent_at": "2026-10-25T18:00:28.696Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-10-25T13:28:23.762Z"
+  "last_check": "2026-10-25T18:00:29.802Z"
 }

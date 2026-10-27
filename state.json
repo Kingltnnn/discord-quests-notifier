@@ -2562,224 +2562,6 @@
       "sent_at": "2026-09-17T21:01:20.239Z",
       "type": "new"
     },
-    "1550143303079567520": {
-      "id": "1550143303079567520",
-      "config": {
-        "id": "1550143303079567520",
-        "config_version": 2,
-        "starts_at": "2026-09-17T18:30:00+00:00",
-        "expires_at": "2026-09-27T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://osrs.runescape.com/download",
-          "id": "1180205756998488064",
-          "name": "Old School RuneScape"
-        },
-        "assets": {
-          "hero": "quests/1550143303079567520/1550200071079989268.jpg",
-          "hero_video": "quests/1550143303079567520/1550200071172263946.mp4",
-          "quest_bar_hero_blurhash": "S+cJEoZvInmIiFd5gGQEiHc=",
-          "quest_bar_hero": "quests/1550143303079567520/1550200071079989268.jpg",
-          "quest_bar_hero_video": "quests/1550143303079567520/1550200071172263946.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1550143303079567520/1550199845912973392.jpg",
-          "game_tile_dark": "quests/1550143303079567520/1550199845912973392.jpg",
-          "logotype_light": "quests/1550143303079567520/1550199845929623582.png",
-          "logotype_dark": "quests/1550143303079567520/1550199846810685502.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Old School Runescape",
-          "game_title": "Old School Runescape",
-          "game_publisher": "JAGEX"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1180205756998488064"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 3,
-              "sku_id": "1550204246400438492",
-              "asset": "quests/1550143303079567520/1550205289184100462.mp4",
-              "asset_video": null,
-              "messages": {
-                "name": "Old School RuneScape Avatar Decoration",
-                "name_with_article": "an Old School RuneScape Avatar Decoration",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "expires_at": "2026-10-28T00:00:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 3
-            }
-          ],
-          "rewards_expire_at": "2026-10-27T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://osrs.runescape.com/download",
-          "button_label": "Phát Ngay"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiT2xkIFNjaG9vbCBSdW5lc2NhcGUiLCJnYW1lX3RpdGxlIjoiT2xkIFNjaG9vbCBSdW5lc2NhcGUiLCJnYW1lX3B1Ymxpc2hlciI6IkpBR0VYIiwiYXBwbGljYXRpb25faWQiOiIxMTgwMjA1NzU2OTk4NDg4MDY0IiwiYXBwbGljYXRpb25fbmFtZSI6Ik9sZCBTY2hvb2wgUnVuZVNjYXBlIiwic3RhcnRzX2F0IjoiMjAyNi0wOS0xN1QxODozMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTI3VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTI3VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6bnVsbCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIl0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTUwMTQzMzAzMDc5NTY3NTIwLzE1NTAyMDAwNzEwNzk5ODkyNjguanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTUwMTQzMzAzMDc5NTY3NTIwLzE1NTAyMDAwNzExNzIyNjM5NDYubXA0In0=",
-      "starts_at": "2026-09-17T18:30:00+00:00",
-      "expires_at": "2026-10-27T00:00:00+00:00",
-      "sent_at": "2026-09-17T21:01:25.537Z",
-      "type": "new"
-    },
-    "1546582811790675998": {
-      "id": "1546582811790675998",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-09-18T17:00:00+00:00",
-        "expires_at": "2026-09-27T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://www.apple.com/au/iphone-18-pro/?cid=wwa-au-div-iphn-trplh-dpre-discord-skvf-revd-cpv-aos-mul-adevt-gnt-broa-prlp-attnbb-auen-prdflm-video-169ar-15s-trip-btry-na-na-na-na-na-07351501&mpid=7351501",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1546582811790675998/1549861027498299453.jpg",
-          "hero_video": "quests/1546582811790675998/1550218182076407949_720.mp4",
-          "quest_bar_hero_blurhash": "xAcGBIAHyWaDeYaGencId4VwVw==",
-          "quest_bar_hero": "quests/1546582811790675998/1549839196280070204.jpg",
-          "quest_bar_hero_video": "quests/1546582811790675998/1550218182076407949_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1546582811790675998/1549838963513233539.png",
-          "game_tile_dark": "quests/1546582811790675998/1549860843548573948.png",
-          "logotype_light": "quests/1546582811790675998/1549838963542458539.png",
-          "logotype_dark": "quests/1546582811790675998/1549838963458707517.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "iPhone 18 Pro",
-          "game_title": "iPhone 18 Pro",
-          "game_publisher": "Apple"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 14,
-              "assets": {
-                "video": {
-                  "url": "quests/1546582811790675998/1550218041806037215_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1546582811790675998/1549838963383078942.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1546582811790675998/1550218041806037215_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1546582811790675998/1549838963383078942.png"
-                },
-                "video_hls": {
-                  "url": "quests/1546582811790675998/1550218041806037215.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1546582811790675998/1549838963383078942.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 14,
-              "assets": {
-                "video": {
-                  "url": "quests/1546582811790675998/1550319212839309382_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1546582811790675998/1549838963383078942.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1546582811790675998/1550319212839309382_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1546582811790675998/1549838963383078942.png"
-                },
-                "video_hls": {
-                  "url": "quests/1546582811790675998/1550319212839309382.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1546582811790675998/1549838963383078942.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": null
-            }
-          ],
-          "rewards_expire_at": "2026-10-27T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.apple.com/au/iphone-18-pro/?cid=wwa-au-div-iphn-trplh-dpre-discord-skvf-revd-cpv-aos-mul-adevt-gnt-broa-prlp-attnbb-auen-prdflm-video-169ar-15s-trip-btry-na-na-na-na-na-07351501&mpid=7351501",
-          "button_label": "Learn More",
-          "subtitle": "Pro Further"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiaVBob25lIDE4IFBybyIsImdhbWVfdGl0bGUiOiJpUGhvbmUgMTggUHJvIiwiZ2FtZV9wdWJsaXNoZXIiOiJBcHBsZSIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTE4VDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMjdUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMjdUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6MTR9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6MTR9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQ2NTgyODExNzkwNjc1OTk4LzE1NDk4NjEwMjc0OTgyOTk0NTMuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTQ2NTgyODExNzkwNjc1OTk4LzE1NTAyMTgxODIwNzY0MDc5NDlfNzIwLm1wNCJ9",
-      "starts_at": "2026-09-18T17:00:00+00:00",
-      "expires_at": "2026-10-27T00:00:00+00:00",
-      "sent_at": "2026-09-18T20:32:31.467Z",
-      "type": "new"
-    },
     "1543813403204788235": {
       "id": "1543813403204788235",
       "config": {
@@ -11555,7 +11337,120 @@
       "expires_at": "2026-12-04T01:00:00+00:00",
       "sent_at": "2026-10-25T18:00:28.696Z",
       "type": "new"
+    },
+    "1549143645842841640": {
+      "id": "1549143645842841640",
+      "config": {
+        "id": "1549143645842841640",
+        "config_version": 2,
+        "starts_at": "2026-10-27T17:00:00+00:00",
+        "expires_at": "2026-11-03T01:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=hushplay",
+          "id": "700136079562375258",
+          "name": "Valorant"
+        },
+        "assets": {
+          "hero": "quests/1549143645842841640/1549144005206351953.jpg",
+          "hero_video": "quests/1549143645842841640/1555282580264190002.mp4",
+          "quest_bar_hero_blurhash": "DtcFDIQRT3hdp4WKh2i5T0f6Yg==",
+          "quest_bar_hero": "quests/1549143645842841640/1555282551889727758.jpg",
+          "quest_bar_hero_video": "quests/1549143645842841640/1555282580264190002.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1549143645842841640/1549143951263531068.png",
+          "game_tile_dark": "quests/1549143645842841640/1549143951263531068.png",
+          "logotype_light": "quests/1549143645842841640/1549143951275991050.png",
+          "logotype_dark": "quests/1549143645842841640/1549143951275991050.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "VALORANT HUSH",
+          "game_title": "VALORANT",
+          "game_publisher": "Riot Games"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "700136079562375258"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "700136079562375258"
+                }
+              ],
+              "external_ids": [
+                "2139646219"
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "700136079562375258"
+                }
+              ],
+              "external_ids": [
+                "PPSA20711_00",
+                "PPSA20676_00"
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1563255493906923561",
+              "asset": "quests/1549143645842841640/1563278725448208485.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "Trang Trí Ảnh Đại Diện SUỴT. ĐẾN GIỜ ĂN NHẸ",
+                "name_with_article": "Trang Trí Ảnh Đại Diện SUỴT. ĐẾN GIỜ ĂN NHẸ",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "expires_at": "2027-01-03T01:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2026-12-03T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=hushplay",
+          "button_label": "Chơi miễn phí ngay"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiVkFMT1JBTlQgSFVTSCIsImdhbWVfdGl0bGUiOiJWQUxPUkFOVCIsImdhbWVfcHVibGlzaGVyIjoiUmlvdCBHYW1lcyIsImFwcGxpY2F0aW9uX2lkIjoiNzAwMTM2MDc5NTYyMzc1MjU4IiwiYXBwbGljYXRpb25fbmFtZSI6IlZhbG9yYW50Iiwic3RhcnRzX2F0IjoiMjAyNi0xMC0yN1QxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTExLTAzVDAxOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEyLTAzVDAxOjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6bnVsbCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iLCJYYm94Il0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInR5cGUiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9YQk9YIiwidHlwZSI6IlBMQVlfT05fWEJPWCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0OTE0MzY0NTg0Mjg0MTY0MC8xNTQ5MTQ0MDA1MjA2MzUxOTUzLmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU0OTE0MzY0NTg0Mjg0MTY0MC8xNTU1MjgyNTgwMjY0MTkwMDAyLm1wNCJ9",
+      "starts_at": "2026-10-27T17:00:00+00:00",
+      "expires_at": "2026-12-03T01:00:00+00:00",
+      "sent_at": "2026-10-27T21:39:04.625Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-10-27T17:07:38.997Z"
+  "last_check": "2026-10-27T21:39:05.734Z"
 }

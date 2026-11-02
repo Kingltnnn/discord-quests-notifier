@@ -1,134 +1,5 @@
 {
   "quests": {
-    "1542927566568956095": {
-      "id": "1542927566568956095",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-09-04T22:00:00+00:00",
-        "expires_at": "2026-11-01T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://www.walmart.com/brand/kitkat/10023102?selectedSellerId=0",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1542927566568956095/1555274010663592128.jpg",
-          "quest_bar_hero_blurhash": "U1kKHIQueVdfmIZYd4YvbtawRg==",
-          "quest_bar_hero": "quests/1542927566568956095/1542994916047585401.jpg",
-          "quest_bar_hero_video": "quests/1542927566568956095/1542952655440183416_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1542927566568956095/1542948852875927663.png",
-          "game_tile_dark": "quests/1542927566568956095/1542948852875927663.png",
-          "logotype_light": "quests/1542927566568956095/1542948895246516314.png",
-          "logotype_dark": "quests/1542927566568956095/1542948895246516314.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Kit Kat Halloween",
-          "game_title": "KIT KAT® Shapes",
-          "game_publisher": "Kit Kat"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 14,
-              "assets": {
-                "video": {
-                  "url": "quests/1542927566568956095/1542953391867822100_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1542927566568956095/1542953753219702865.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1542927566568956095/1542953391867822100_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1542927566568956095/1542953753219702865.png"
-                },
-                "video_hls": {
-                  "url": "quests/1542927566568956095/1542953391867822100.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1542927566568956095/1542953753219702865.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 14,
-              "assets": {
-                "video": {
-                  "url": "quests/1542927566568956095/1542953391867822100_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1542927566568956095/1542953753219702865.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1542927566568956095/1542953391867822100_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1542927566568956095/1542953753219702865.png"
-                },
-                "video_hls": {
-                  "url": "quests/1542927566568956095/1542953391867822100.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1542927566568956095/1542953753219702865.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": null
-            }
-          ],
-          "rewards_expire_at": "2026-12-01T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "not_shareable",
-        "cta_config": {
-          "link": "https://www.walmart.com/brand/kitkat/10023102?selectedSellerId=0",
-          "button_label": "Shop Now"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiS2l0IEthdCBIYWxsb3dlZW4iLCJnYW1lX3RpdGxlIjoiS0lUIEtBVMKuIFNoYXBlcyIsImdhbWVfcHVibGlzaGVyIjoiS2l0IEthdCIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTA0VDIyOjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTEtMDFUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTItMDFUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6MTR9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6MTR9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQyOTI3NTY2NTY4OTU2MDk1LzE1NTUyNzQwMTA2NjM1OTIxMjguanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
-      "starts_at": "2026-09-04T22:00:00+00:00",
-      "expires_at": "2026-11-01T00:00:00+00:00",
-      "sent_at": "2026-09-05T03:22:29.673Z",
-      "type": "updated",
-      "updated_at": "2026-10-02T09:26:33.422Z"
-    },
     "1549171029241233449": {
       "id": "1549171029241233449",
       "config": {
@@ -7986,7 +7857,7 @@
       "config": {
         "id": "1563322864659202169",
         "config_version": 2,
-        "starts_at": "2026-10-28T07:00:00+00:00",
+        "starts_at": "2026-10-25T07:00:00+00:00",
         "expires_at": "2026-11-03T01:00:00+00:00",
         "features": [
           15
@@ -8051,9 +7922,9 @@
                 }
               ],
               "external_ids": [
+                "PPSA34015_00",
                 "CUSA57220_00",
-                "CUSA58964_00",
-                "PPSA34015_00"
+                "CUSA58964_00"
               ]
             }
           },
@@ -8087,12 +7958,12 @@
           "button_label": "Nhận Trò Chơi"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiRUEgU1BPUlRTIEZD4oSiIDI3IiwiZ2FtZV90aXRsZSI6IkVBIFNQT1JUUyBGQ+KEoiAyNyIsImdhbWVfcHVibGlzaGVyIjoiRWxlY3Ryb25pYyBBcnRzIiwiYXBwbGljYXRpb25faWQiOiIxNTMxODc0NzU2MDk2Mjk1MDU0IiwiYXBwbGljYXRpb25fbmFtZSI6IkVBIFNwb3J0cyBGQyAyNyIsInN0YXJ0c19hdCI6IjIwMjYtMTAtMjhUMDc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMS0wM1QwMTowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMi0wM1QwMTowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5Ijo4NDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiLCJQbGF5U3RhdGlvbiIsIlhib3giXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidHlwZSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1hCT1giLCJ0eXBlIjoiUExBWV9PTl9YQk9YIiwidGFyZ2V0Ijo5MDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTUxOTY5NTI1NjAyNDUxNDk3LzE1NTE5ODE1ODExMTgzNDUzNTcuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTYwMzkyNjAzODc3MjQ5MDM2LzE1NjA3MzI5Mzk1MzExOTg1MDRfNzIwLm1wNCJ9",
+      "hash": "eyJxdWVzdF9uYW1lIjoiRUEgU1BPUlRTIEZD4oSiIDI3IiwiZ2FtZV90aXRsZSI6IkVBIFNQT1JUUyBGQ+KEoiAyNyIsImdhbWVfcHVibGlzaGVyIjoiRWxlY3Ryb25pYyBBcnRzIiwiYXBwbGljYXRpb25faWQiOiIxNTMxODc0NzU2MDk2Mjk1MDU0IiwiYXBwbGljYXRpb25fbmFtZSI6IkVBIFNwb3J0cyBGQyAyNyIsInN0YXJ0c19hdCI6IjIwMjYtMTAtMjVUMDc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMS0wM1QwMTowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMi0wM1QwMTowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5Ijo4NDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiLCJQbGF5U3RhdGlvbiIsIlhib3giXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidHlwZSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1hCT1giLCJ0eXBlIjoiUExBWV9PTl9YQk9YIiwidGFyZ2V0Ijo5MDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTUxOTY5NTI1NjAyNDUxNDk3LzE1NTE5ODE1ODExMTgzNDUzNTcuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTYwMzkyNjAzODc3MjQ5MDM2LzE1NjA3MzI5Mzk1MzExOTg1MDRfNzIwLm1wNCJ9",
       "starts_at": "2026-10-25T07:00:00+00:00",
       "expires_at": "2026-11-03T01:00:00+00:00",
       "sent_at": "2026-10-25T07:57:42.473Z",
       "type": "updated",
-      "updated_at": "2026-10-29T03:43:04.884Z"
+      "updated_at": "2026-11-02T21:11:24.594Z"
     },
     "1562915304299044884": {
       "id": "1562915304299044884",
@@ -8473,5 +8344,5 @@
       "type": "new"
     }
   },
-  "last_check": "2026-11-02T10:22:21.511Z"
+  "last_check": "2026-11-02T21:11:25.701Z"
 }

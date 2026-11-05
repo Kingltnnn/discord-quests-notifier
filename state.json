@@ -113,438 +113,6 @@
       "sent_at": "2026-09-22T20:58:04.894Z",
       "type": "new"
     },
-    "1551999809626439731": {
-      "id": "1551999809626439731",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-09-22T17:00:00+00:00",
-        "expires_at": "2026-10-06T00:00:00+00:00",
-        "features": [
-          44,
-          15
-        ],
-        "application": {
-          "link": "https://plarium.com/en/game/mech-arena/",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1542119360116555856/1544639630136189030.jpg",
-          "hero_video": "quests/1542119360116555856/1542119619488251945_720.mp4",
-          "quest_bar_hero_blurhash": "FvgFNIZ/KZQsuIhCZnePhPU4ag==",
-          "quest_bar_hero": "quests/1542119360116555856/1544639877285413005.jpg",
-          "quest_bar_hero_video": "quests/1542119360116555856/1542119619488251945_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1542119360116555856/1542119454643720192.png",
-          "game_tile_dark": "quests/1542119360116555856/1542119454643720192.png",
-          "logotype_light": "quests/1542119360116555856/1542119494355386378.png",
-          "logotype_dark": "quests/1542119360116555856/1542119493424259162.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Mech Arena",
-          "game_title": "Mech Arena",
-          "game_publisher": "Plarium"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1542119360116555856/1544640263035822090_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1542119360116555856/1544640816931151902.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1542119360116555856/1544640263035822090_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1542119360116555856/1544640816931151902.png"
-                },
-                "video_hls": {
-                  "url": "quests/1542119360116555856/1544640263035822090.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1542119360116555856/1544640816931151902.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": 240
-            }
-          ],
-          "rewards_expire_at": "2026-11-05T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "android": {
-            "android_app_id": "com.plarium.mechlegion"
-          },
-          "ios": {
-            "ios_app_id": "1377591228"
-          },
-          "link": "https://plarium.com/en/game/mech-arena/",
-          "button_label": "Download"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTWVjaCBBcmVuYSIsImdhbWVfdGl0bGUiOiJNZWNoIEFyZW5hIiwiZ2FtZV9wdWJsaXNoZXIiOiJQbGFyaXVtIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMjJUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0wNlQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0wNVQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjoyNDAsImZlYXR1cmVzIjpbMTUsNDRdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQyMTE5MzYwMTE2NTU1ODU2LzE1NDQ2Mzk2MzAxMzYxODkwMzAuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTQyMTE5MzYwMTE2NTU1ODU2LzE1NDIxMTk2MTk0ODgyNTE5NDVfNzIwLm1wNCJ9",
-      "starts_at": "2026-09-22T17:00:00+00:00",
-      "expires_at": "2026-11-05T00:00:00+00:00",
-      "sent_at": "2026-09-22T20:58:06.278Z",
-      "type": "new"
-    },
-    "1552002448975994942": {
-      "id": "1552002448975994942",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-09-22T17:00:00+00:00",
-        "expires_at": "2026-10-06T00:00:00+00:00",
-        "features": [
-          44,
-          15
-        ],
-        "application": {
-          "link": "https://f1clashgame.com/",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1550179068362621049/1550181068299046932.jpg",
-          "quest_bar_hero_blurhash": "ChgGDIIHaJh6lXiBeYlJj47wmA==",
-          "quest_bar_hero": "quests/1550179068362621049/1550181092747771975.jpg",
-          "quest_bar_hero_video": "quests/1550179068362621049/1550181140541870090_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1550179068362621049/1550180435013668875.png",
-          "game_tile_dark": "quests/1550179068362621049/1550180435013668875.png",
-          "logotype_light": "quests/1550179068362621049/1550180575678042152.png",
-          "logotype_dark": "quests/1550179068362621049/1550180575841755186.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "F1 Clash",
-          "game_title": "F1 Clash",
-          "game_publisher": "Hutch Games"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1550179068362621049/1550181022941970532_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1550179068362621049/1550181092747771975.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1550179068362621049/1550181022941970532_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1550179068362621049/1550181092747771975.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1550179068362621049/1550181022941970532.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1550179068362621049/1550181092747771975.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": 240
-            }
-          ],
-          "rewards_expire_at": "2026-11-05T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "android": {
-            "android_app_id": "com.hutchgames.formularacing"
-          },
-          "ios": {
-            "ios_app_id": "1434561536"
-          },
-          "link": "https://f1clashgame.com/",
-          "button_label": "Play Now"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiRjEgQ2xhc2giLCJnYW1lX3RpdGxlIjoiRjEgQ2xhc2giLCJnYW1lX3B1Ymxpc2hlciI6Ikh1dGNoIEdhbWVzIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMjJUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0wNlQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0wNVQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjoyNDAsImZlYXR1cmVzIjpbMTUsNDRdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTUwMTc5MDY4MzYyNjIxMDQ5LzE1NTAxODEwNjgyOTkwNDY5MzIuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
-      "starts_at": "2026-09-22T17:00:00+00:00",
-      "expires_at": "2026-11-05T00:00:00+00:00",
-      "sent_at": "2026-09-22T20:58:07.698Z",
-      "type": "new"
-    },
-    "1552010656952356925": {
-      "id": "1552010656952356925",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-09-22T18:00:00+00:00",
-        "expires_at": "2026-10-06T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://www.ubisoft.com/en-us/game/invincible-guarding-the-globe",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1547895090830250055/1547951058309877770.jpg",
-          "quest_bar_hero_blurhash": "GdcJJIQYd0iPeIZwhngHcocAhw==",
-          "quest_bar_hero": "quests/1547895090830250055/1547951081353519187.jpg",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1547895090830250055/1547951013405917304.png",
-          "game_tile_dark": "quests/1547895090830250055/1547951013405917304.png",
-          "logotype_light": "quests/1547895090830250055/1549521113950851213.png",
-          "logotype_dark": "quests/1547895090830250055/1549521113950851213.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": " Invincible: Guarding the Globe ",
-          "game_title": " Invincible: Guarding the Globe ",
-          "game_publisher": "Ubisoft Mobile"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1547895090830250055/1547951013183496292_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1547895090830250055/1547951081353519187.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1547895090830250055/1547951013183496292_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1547895090830250055/1547951081353519187.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1547895090830250055/1547951013183496292.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1547895090830250055/1547951081353519187.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": 240
-            }
-          ],
-          "rewards_expire_at": "2026-11-05T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "android": {
-            "android_app_id": "com.ubisoft.invincible.guardians.globe.idle.superhero.rpg.battle.afk"
-          },
-          "ios": {
-            "ios_app_id": "6449294809"
-          },
-          "link": "https://www.ubisoft.com/en-us/game/invincible-guarding-the-globe",
-          "button_label": "Play Now"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiIEludmluY2libGU6IEd1YXJkaW5nIHRoZSBHbG9iZSAiLCJnYW1lX3RpdGxlIjoiIEludmluY2libGU6IEd1YXJkaW5nIHRoZSBHbG9iZSAiLCJnYW1lX3B1Ymxpc2hlciI6IlViaXNvZnQgTW9iaWxlIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMjJUMTg6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0wNlQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0wNVQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjoyNDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQ3ODk1MDkwODMwMjUwMDU1LzE1NDc5NTEwNTgzMDk4Nzc3NzAuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
-      "starts_at": "2026-09-22T18:00:00+00:00",
-      "expires_at": "2026-11-05T00:00:00+00:00",
-      "sent_at": "2026-09-22T20:58:09.383Z",
-      "type": "new"
-    },
-    "1550379237335367680": {
-      "id": "1550379237335367680",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-09-23T02:00:00+00:00",
-        "expires_at": "2026-10-06T00:00:00+00:00",
-        "features": [
-          44,
-          15
-        ],
-        "application": {
-          "link": "https://gwww.gnjoy.hk/sea_official/",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1550379237335367680/1550549569945735258.jpg",
-          "hero_video": "quests/1550379237335367680/1551451688068714546_720.mp4",
-          "quest_bar_hero_blurhash": "ZhgORIh/h3iGeIiGd4hviPeUZw==",
-          "quest_bar_hero": "quests/1550379237335367680/1550549569828298842.jpg",
-          "quest_bar_hero_video": "quests/1550379237335367680/1551451610708836412_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1550379237335367680/1550549569249480745.png",
-          "game_tile_dark": "quests/1550379237335367680/1550549569249480745.png",
-          "logotype_light": "quests/1550379237335367680/1550549568544964759.png",
-          "logotype_dark": "quests/1550379237335367680/1550549568544964759.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Ragnarok: The New World — New Version Launch",
-          "game_title": "Ragnarok: The New World",
-          "game_publisher": "Gravity Game Vision"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 96,
-              "assets": {
-                "video": {
-                  "url": "quests/1550379237335367680/1551645695469953124_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1550379237335367680/1550549569207668975.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1550379237335367680/1551645695469953124_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1550379237335367680/1550549569207668975.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1550379237335367680/1551645695469953124.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1550379237335367680/1550549569207668975.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": 240
-            }
-          ],
-          "rewards_expire_at": "2026-11-05T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "android": {
-            "android_app_id": "com.ggv.roworldsea.aos"
-          },
-          "ios": {
-            "ios_app_id": "6754275005"
-          },
-          "link": "https://gwww.gnjoy.hk/sea_official/",
-          "button_label": "Download"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiUmFnbmFyb2s6IFRoZSBOZXcgV29ybGQg4oCUIE5ldyBWZXJzaW9uIExhdW5jaCIsImdhbWVfdGl0bGUiOiJSYWduYXJvazogVGhlIE5ldyBXb3JsZCIsImdhbWVfcHVibGlzaGVyIjoiR3Jhdml0eSBHYW1lIFZpc2lvbiIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTIzVDAyOjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTAtMDZUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTEtMDVUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6MjQwLCJmZWF0dXJlcyI6WzE1LDQ0XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjk2fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU1MDM3OTIzNzMzNTM2NzY4MC8xNTUwNTQ5NTY5OTQ1NzM1MjU4LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU1MDM3OTIzNzMzNTM2NzY4MC8xNTUxNDUxNjg4MDY4NzE0NTQ2XzcyMC5tcDQifQ==",
-      "starts_at": "2026-09-23T02:00:00+00:00",
-      "expires_at": "2026-11-05T00:00:00+00:00",
-      "sent_at": "2026-09-23T10:56:19.513Z",
-      "type": "new"
-    },
     "1546583178230235336": {
       "id": "1546583178230235336",
       "config": {
@@ -7082,7 +6650,7 @@
         "id": "1552381793074675762",
         "config_version": 2,
         "starts_at": "2026-11-04T18:00:00+00:00",
-        "expires_at": "2026-11-19T01:00:00+00:00",
+        "expires_at": "2026-11-19T07:59:00+00:00",
         "features": [
           15
         ],
@@ -7144,7 +6712,7 @@
               "premium_orb_quantity": 840
             }
           ],
-          "rewards_expire_at": "2026-12-19T01:00:00+00:00",
+          "rewards_expire_at": "2026-12-19T07:59:00+00:00",
           "platforms": [
             0
           ]
@@ -7155,12 +6723,97 @@
           "button_label": "Phát Ngay"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTWFwbGVTdG9yeSBDbGFzc2ljIFdvcmxkIiwiZ2FtZV90aXRsZSI6Ik1hcGxlU3RvcnkgQ2xhc3NpYyBXb3JsZCIsImdhbWVfcHVibGlzaGVyIjoiTmV4b24gQW1lcmljYSIsImFwcGxpY2F0aW9uX2lkIjoiMTU2NTU4MDIxMjY2NDc5NTI0OSIsImFwcGxpY2F0aW9uX25hbWUiOiJNYXBsZVN0b3J5IENsYXNzaWMgV29ybGQiLCJzdGFydHNfYXQiOiIyMDI2LTExLTA0VDE4OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTEtMTlUMDE6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTItMTlUMDE6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6ODQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIl0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTUyMzgxNzkzMDc0Njc1NzYyLzE1NjUwNzYyNDcxMTIwNjEwODkuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTUyMzgxNzkzMDc0Njc1NzYyLzE1NjUwNzU5ODcwNTI0OTQ5MDBfNzIwLm1wNCJ9",
+      "hash": "eyJxdWVzdF9uYW1lIjoiTWFwbGVTdG9yeSBDbGFzc2ljIFdvcmxkIiwiZ2FtZV90aXRsZSI6Ik1hcGxlU3RvcnkgQ2xhc3NpYyBXb3JsZCIsImdhbWVfcHVibGlzaGVyIjoiTmV4b24gQW1lcmljYSIsImFwcGxpY2F0aW9uX2lkIjoiMTU2NTU4MDIxMjY2NDc5NTI0OSIsImFwcGxpY2F0aW9uX25hbWUiOiJNYXBsZVN0b3J5IENsYXNzaWMgV29ybGQiLCJzdGFydHNfYXQiOiIyMDI2LTExLTA0VDE4OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTEtMTlUMDc6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTItMTlUMDc6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6ODQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIl0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTUyMzgxNzkzMDc0Njc1NzYyLzE1NjUwNzYyNDcxMTIwNjEwODkuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTUyMzgxNzkzMDc0Njc1NzYyLzE1NjUwNzU5ODcwNTI0OTQ5MDBfNzIwLm1wNCJ9",
       "starts_at": "2026-11-04T18:00:00+00:00",
-      "expires_at": "2026-12-19T01:00:00+00:00",
+      "expires_at": "2026-11-19T07:59:00+00:00",
       "sent_at": "2026-11-04T19:10:05.956Z",
+      "type": "updated",
+      "updated_at": "2026-11-05T01:13:21.573Z"
+    },
+    "1552876032875560980": {
+      "id": "1552876032875560980",
+      "config": {
+        "id": "1552876032875560980",
+        "config_version": 2,
+        "starts_at": "2026-11-04T23:30:00+00:00",
+        "expires_at": "2026-11-19T01:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://shop.battle.net/product/world-of-warcraft-forever?utm_source=Discord&utm_medium=PaidGGM",
+          "id": "1553234742529364018",
+          "name": "World of Warcraft: Forever"
+        },
+        "assets": {
+          "hero": "quests/1552876032875560980/1563326884849127464.jpg",
+          "quest_bar_hero_blurhash": "TRcGO4gCbHeImKhoiJBoBpk=",
+          "quest_bar_hero": "quests/1552876032875560980/1563326884849127464.jpg",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1552876032875560980/1562577947129286738.png",
+          "game_tile_dark": "quests/1552876032875560980/1562577947129286738.png",
+          "logotype_light": "quests/1552876032875560980/1562578916412227644.png",
+          "logotype_dark": "quests/1552876032875560980/1562577947154452530.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "World of Warcraft: Forever Play",
+          "game_title": "World of Warcraft: Forever",
+          "game_publisher": "Blizzard Entertainment"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1553234742529364018"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-12-19T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://shop.battle.net/product/world-of-warcraft-forever?utm_source=Discord&utm_medium=PaidGGM",
+          "button_label": "Phát Ngay",
+          "subtitle": "Carve a New Path"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiV29ybGQgb2YgV2FyY3JhZnQ6IEZvcmV2ZXIgUGxheSIsImdhbWVfdGl0bGUiOiJXb3JsZCBvZiBXYXJjcmFmdDogRm9yZXZlciIsImdhbWVfcHVibGlzaGVyIjoiQmxpenphcmQgRW50ZXJ0YWlubWVudCIsImFwcGxpY2F0aW9uX2lkIjoiMTU1MzIzNDc0MjUyOTM2NDAxOCIsImFwcGxpY2F0aW9uX25hbWUiOiJXb3JsZCBvZiBXYXJjcmFmdDogRm9yZXZlciIsInN0YXJ0c19hdCI6IjIwMjYtMTEtMDRUMjM6MzA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMS0xOVQwMTowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMi0xOVQwMTowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5Ijo4NDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NTI4NzYwMzI4NzU1NjA5ODAvMTU2MzMyNjg4NDg0OTEyNzQ2NC5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
+      "starts_at": "2026-11-04T23:30:00+00:00",
+      "expires_at": "2026-12-19T01:00:00+00:00",
+      "sent_at": "2026-11-05T01:13:20.136Z",
       "type": "new"
     }
   },
-  "last_check": "2026-11-04T19:10:07.064Z"
+  "last_check": "2026-11-05T01:13:22.680Z"
 }

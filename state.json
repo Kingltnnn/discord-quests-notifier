@@ -2790,7 +2790,179 @@
       "expires_at": "2027-01-18T07:59:00+00:00",
       "sent_at": "2026-11-23T11:34:14.312Z",
       "type": "new"
+    },
+    "1565840089576251403": {
+      "id": "1565840089576251403",
+      "config": {
+        "id": "1565840089576251403",
+        "config_version": 2,
+        "starts_at": "2026-11-23T18:00:00+00:00",
+        "expires_at": "2026-12-07T01:00:00+00:00",
+        "features": [
+          26,
+          15
+        ],
+        "application": {
+          "link": "https://firefox.com/get/?p=discord&utm_source=discord&utm_campaign=nova&utm_content=playquest2",
+          "id": "1491208267928703226",
+          "name": "Firefox"
+        },
+        "assets": {
+          "hero": "quests/1565840089576251403/1573061974479212745.jpg",
+          "hero_video": "quests/1565840089576251403/1573062890926247946_720.mp4",
+          "quest_bar_hero_blurhash": "YTcKHIT2iFd2iHmOc4t6j4ffpg==",
+          "quest_bar_hero": "quests/1565840089576251403/1573061895106203799.jpg",
+          "quest_bar_hero_video": "quests/1565840089576251403/1573062890926247946_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1565840089576251403/1570590001266294827.png",
+          "game_tile_dark": "quests/1565840089576251403/1570590001266294827.png",
+          "logotype_light": "quests/1565840089576251403/1570590000767041546.png",
+          "logotype_dark": "quests/1565840089576251403/1570590000813183037.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Firefox Browser",
+          "game_title": "Firefox Browser",
+          "game_publisher": "Mozilla"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1491208267928703226"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2027-01-06T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://firefox.com/get/?p=discord&utm_source=discord&utm_campaign=nova&utm_content=playquest2",
+          "button_label": "Tải xuống",
+          "subtitle": "Try Firefox today"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiRmlyZWZveCBCcm93c2VyIiwiZ2FtZV90aXRsZSI6IkZpcmVmb3ggQnJvd3NlciIsImdhbWVfcHVibGlzaGVyIjoiTW96aWxsYSIsImFwcGxpY2F0aW9uX2lkIjoiMTQ5MTIwODI2NzkyODcwMzIyNiIsImFwcGxpY2F0aW9uX25hbWUiOiJGaXJlZm94Iiwic3RhcnRzX2F0IjoiMjAyNi0xMS0yM1QxODowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEyLTA3VDAxOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI3LTAxLTA2VDAxOjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6NzAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOjg0MCwiZmVhdHVyZXMiOlsxNSwyNl0sInBsYXRmb3JtcyI6WyJQQyJdLCJ0YXNrcyI6W3sia2V5IjoiUExBWV9PTl9ERVNLVE9QIiwidHlwZSI6IlBMQVlfT05fREVTS1RPUCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU2NTg0MDA4OTU3NjI1MTQwMy8xNTczMDYxOTc0NDc5MjEyNzQ1LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU2NTg0MDA4OTU3NjI1MTQwMy8xNTczMDYyODkwOTI2MjQ3OTQ2XzcyMC5tcDQifQ==",
+      "starts_at": "2026-11-23T18:00:00+00:00",
+      "expires_at": "2027-01-06T01:00:00+00:00",
+      "sent_at": "2026-11-23T23:08:29.574Z",
+      "type": "new"
+    },
+    "1562498875032473711": {
+      "id": "1562498875032473711",
+      "config": {
+        "id": "1562498875032473711",
+        "config_version": 2,
+        "starts_at": "2026-11-23T18:00:00+00:00",
+        "expires_at": "2026-12-08T01:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.eveonline.com/?utm_source=discord&utm_medium=cpm&utm_campaign=cn:ww_lg:en_mg:1_pd:1_cd:play-quest-231126_cs:general_ct:video_tg:homepage_br:eve",
+          "id": "363413402300710912",
+          "name": "EVE Online"
+        },
+        "assets": {
+          "hero": "quests/1562498875032473711/1571907022322929716.jpg",
+          "hero_video": "quests/1562498875032473711/1570955067006128198_720.mp4",
+          "quest_bar_hero_blurhash": "D0kKFIRuVnjPaHeneXccv7PgKw==",
+          "quest_bar_hero": "quests/1562498875032473711/1571907022322929716.jpg",
+          "quest_bar_hero_video": "quests/1562498875032473711/1570955067006128198_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1562498875032473711/1570954685542703155.png",
+          "game_tile_dark": "quests/1562498875032473711/1571906222263631935.png",
+          "logotype_light": "quests/1562498875032473711/1570954801552953424.png",
+          "logotype_dark": "quests/1562498875032473711/1571906307819184188.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "EVE Online",
+          "game_title": "EVE Online",
+          "game_publisher": "Fenris Creations"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "363413402300710912"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2027-01-07T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.eveonline.com/?utm_source=discord&utm_medium=cpm&utm_campaign=cn:ww_lg:en_mg:1_pd:1_cd:play-quest-231126_cs:general_ct:video_tg:homepage_br:eve",
+          "button_label": "Phát Ngay"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiRVZFIE9ubGluZSIsImdhbWVfdGl0bGUiOiJFVkUgT25saW5lIiwiZ2FtZV9wdWJsaXNoZXIiOiJGZW5yaXMgQ3JlYXRpb25zIiwiYXBwbGljYXRpb25faWQiOiIzNjM0MTM0MDIzMDA3MTA5MTIiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRVZFIE9ubGluZSIsInN0YXJ0c19hdCI6IjIwMjYtMTEtMjNUMTg6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMi0wOFQwMTowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNy0wMS0wN1QwMTowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5Ijo4NDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NjI0OTg4NzUwMzI0NzM3MTEvMTU3MTkwNzAyMjMyMjkyOTcxNi5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NjI0OTg4NzUwMzI0NzM3MTEvMTU3MDk1NTA2NzAwNjEyODE5OF83MjAubXA0In0=",
+      "starts_at": "2026-11-23T18:00:00+00:00",
+      "expires_at": "2027-01-07T01:00:00+00:00",
+      "sent_at": "2026-11-23T23:08:30.952Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-11-23T11:34:15.416Z"
+  "last_check": "2026-11-23T23:08:32.055Z"
 }

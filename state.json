@@ -589,89 +589,6 @@
       "sent_at": "2026-10-19T08:19:24.992Z",
       "type": "new"
     },
-    "1560389333956034571": {
-      "id": "1560389333956034571",
-      "config": {
-        "id": "1560389333956034571",
-        "config_version": 2,
-        "starts_at": "2026-10-20T18:30:00+00:00",
-        "expires_at": "2026-10-28T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://www.probablymonsters.com/en/nekome/?utm_source=discord&utm_medium=quest&utm_campaign=next_fest_2026",
-          "id": "1560760495248777256",
-          "name": "Nekome: Nazi Hunter"
-        },
-        "assets": {
-          "hero": "quests/1560389333956034571/1561822710416408616.jpg",
-          "quest_bar_hero_blurhash": "nKwGLITtkmhflZeFmHn+X+b+VQ==",
-          "quest_bar_hero": "quests/1560389333956034571/1562148372494819460.jpg",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1560389333956034571/1560448094741729320.jpg",
-          "game_tile_dark": "quests/1560389333956034571/1560448094741729320.jpg",
-          "logotype_light": "quests/1560389333956034571/1560448094817091614.png",
-          "logotype_dark": "quests/1560389333956034571/1560448095156969552.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Play Nekome Demo",
-          "game_title": "Nekome",
-          "game_publisher": "ProbablyMonsters"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1560760495248777256"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": 840
-            }
-          ],
-          "rewards_expire_at": "2026-11-27T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.probablymonsters.com/en/nekome/?utm_source=discord&utm_medium=quest&utm_campaign=next_fest_2026",
-          "button_label": "Phát Ngay"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiUGxheSBOZWtvbWUgRGVtbyIsImdhbWVfdGl0bGUiOiJOZWtvbWUiLCJnYW1lX3B1Ymxpc2hlciI6IlByb2JhYmx5TW9uc3RlcnMiLCJhcHBsaWNhdGlvbl9pZCI6IjE1NjA3NjA0OTUyNDg3NzcyNTYiLCJhcHBsaWNhdGlvbl9uYW1lIjoiTmVrb21lOiBOYXppIEh1bnRlciIsInN0YXJ0c19hdCI6IjIwMjYtMTAtMjBUMTg6MzA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0yOFQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0yN1QwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5Ijo4NDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NjAzODkzMzM5NTYwMzQ1NzEvMTU2MTgyMjcxMDQxNjQwODYxNi5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
-      "starts_at": "2026-10-20T18:30:00+00:00",
-      "expires_at": "2026-11-27T00:00:00+00:00",
-      "sent_at": "2026-10-20T23:33:19.692Z",
-      "type": "new"
-    },
     "1560042472560787507": {
       "id": "1560042472560787507",
       "config": {
@@ -2837,7 +2754,115 @@
       "expires_at": "2027-01-05T01:00:00+00:00",
       "sent_at": "2026-11-26T20:45:32.034Z",
       "type": "new"
+    },
+    "1564712834909077515": {
+      "id": "1564712834909077515",
+      "config": {
+        "id": "1564712834909077515",
+        "config_version": 2,
+        "starts_at": "2026-11-27T15:00:00+00:00",
+        "expires_at": "2026-11-30T06:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://playarkheron.openworld.gg/freetoplay/",
+          "id": "1428186199440228452",
+          "name": "Arkheron"
+        },
+        "assets": {
+          "hero": "quests/1564712834909077515/1572740457820061696.jpg",
+          "quest_bar_hero_blurhash": "klgKDIaHeHh2iHhweXlohYBWCA==",
+          "quest_bar_hero": "quests/1564712834909077515/1572740464698724524.jpg",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1564712834909077515/1570511343080046723.png",
+          "game_tile_dark": "quests/1564712834909077515/1570511343080046723.png",
+          "logotype_light": "quests/1564712834909077515/1570529113951838309.png",
+          "logotype_dark": "quests/1564712834909077515/1570529113242869983.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "ARKHERON Early Access",
+          "game_title": "ARKHERON Early Access (FREE)",
+          "game_publisher": "Bonfire"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1428186199440228452"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1428186199440228452"
+                }
+              ],
+              "external_ids": [
+                "1820798557"
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1428186199440228452"
+                }
+              ],
+              "external_ids": [
+                "PPSA32570_00"
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-12-30T06:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "not_shareable",
+        "cta_config": {
+          "link": "https://playarkheron.openworld.gg/freetoplay/",
+          "button_label": "Chơi Game",
+          "subtitle": "Grab your squad and head back into the Spires!"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiQVJLSEVST04gRWFybHkgQWNjZXNzIiwiZ2FtZV90aXRsZSI6IkFSS0hFUk9OIEVhcmx5IEFjY2VzcyAoRlJFRSkiLCJnYW1lX3B1Ymxpc2hlciI6IkJvbmZpcmUiLCJhcHBsaWNhdGlvbl9pZCI6IjE0MjgxODYxOTk0NDAyMjg0NTIiLCJhcHBsaWNhdGlvbl9uYW1lIjoiQXJraGVyb24iLCJzdGFydHNfYXQiOiIyMDI2LTExLTI3VDE1OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTEtMzBUMDY6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTItMzBUMDY6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6ODQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iLCJYYm94Il0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInR5cGUiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9YQk9YIiwidHlwZSI6IlBMQVlfT05fWEJPWCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU2NDcxMjgzNDkwOTA3NzUxNS8xNTcyNzQwNDU3ODIwMDYxNjk2LmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
+      "starts_at": "2026-11-27T15:00:00+00:00",
+      "expires_at": "2026-12-30T06:00:00+00:00",
+      "sent_at": "2026-11-27T15:54:14.705Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-11-27T03:24:14.479Z"
+  "last_check": "2026-11-27T15:54:15.809Z"
 }
